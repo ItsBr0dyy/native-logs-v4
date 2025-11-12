@@ -4,7 +4,7 @@ import { Suspense } from 'react';
 import RootClient from '@/components/root-client';
 
 export const metadata: Metadata = {
-	title: 'Twitch history',
+	title: 'Native Logs',
 	description: "Read through a twitch channel's history"
 };
 
