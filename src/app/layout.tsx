@@ -9,8 +9,8 @@ import '@/styles/globals.css';
 
 export const metadata: Metadata = {
 	title: {
-		default: 'itsrb0dyy-dev',
-		template: '%s | itsbr0dyy-dev'
+		default: 'susgee-dev',
+		template: '%s | susgee-dev'
 	},
 	other: {
 		'darkreader-lock': ['darkreader-lock']
